@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	    <meta charset="UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <title>Document</title>
+	    <link rel="stylesheet" href="style.css">
+	    <link rel="preconnect" href="https://fonts.googleapis.com">
+	    <link href='https://fonts.googleapis.com/css?family=Manrope' rel='stylesheet'>
+	</head>
+	<body>
+	    <div class="container">
+	    <header>
+	        <div class="leftHeader">
+	            <div>
+	                <img src="image\DEARLU.png" alt="logo" width="170px">
+	            </div>
+	            <div class="nav">
+	                <ul>
+	                    <li>HOME</li>
+	                    <li>ABOUT US</li>
+	                    <li>SERVICES</li>
+	                    <li>BLOG</li>
+	                    <li>CONTACT</li>
+	                </ul>
+	            </div>
+	        </div>
+	        <div class="rightHeader">
+	            <div>
+	                <img src="image\747-7470356_call-icon-red-png-clipart-png-download-iphone.png" alt="" width="20px">
+	            </div>
+	            <div>
+	                <h4>Road Assistant<br>08139781147</h4>
+	            </div>
+	        </div>
+	    </header>
+	    <section>
+	        <div class="main-half">
+	            <div class="left-half">
+	                <div>
+	                <h1>Get your vehicle<br>service done online<br>at one place</h1>
+	                <button>Book a service</button>
+	                </div>
+	                <div class="left-half-other">
+	                    <div>
+	                    <img src="image\Icon.png" alt="" class="clock">
+	                    </div>
+	                    <div>
+	                    <p class="we">We are open</p>
+	                    <h3 class="dates">Mondays to Fridays 9:00 AM to 10:00 AM</h3>
+	                    </div>
+	                </div>
+	            </div>
+	            <div class="right-half">
+	                <div class="service">
+	                    <div class="hrs">
+	                        <h1>24hrs</h1>
+	                    </div>
+	                    <div class="quick">
+	                        <h2>Quick Services</h2>
+	                    </div>
+	                </div>
+	                <img src="image\rating.png" alt="" class="rating" width="363px">
+	            </div>
+	        </div>
+	    </div>
+	    </section>
+	    <section class="color-2">
+	        <div class="main-half-two">
+	            <div class="left-section">
+	                <div>
+	                <h1>We are taking car<br>servicing seriously</h1><br>
+	                <span id="convenient">
+	                    <img src="image\Icon3.png" alt="" width="20px">
+	                    <h3>Convenient service</h3>
+	                </span><br>
+	                <p class="attend">We attend to you services anywhere, anytime<br>at you convenient. No stress, just a call through</p>
+	                </div>
+	                <div>
+	                    <span id="convenient2">
+	                        <img src="image\Icon (1).png" alt="" width="20px">
+	                        <h3>Expert Mechanics</h3>
+	                    </span><br>
+	                    <p class="attend">We attend to you services anywhere, anytime<br>at you convenient. No stress, just a call through</p>
+	                </div>
+	                <div>
+	                    <span id="convenient">
+	                        <img src="image\Icon (2).png" alt="" width="20px">
+	                        <h3>Transparent Pricing</h3>
+	                    </span><br>
+	                    <p class="attend">We attend to you services anywhere, anytime<br>at you convenient. No stress, just a call through</p>
+	                </div>
+	                <div>
+	                    <span id="transparent">
+	                        <h4>know more about us</h4>
+	                        <img src="image\Arrow.png" alt="">
+	                    </span><br>
+	                </div>
+	            </div>
+	            <div class="right-section">
+	                <div>
+	                    <h1>Get a quote for your car service</h1>
+	                </div>
+	                <div>
+	                    <form action="">
+	                        <div class="form-input">
+	                            <input type="text" value="Enter your location"><br>
+	                            <input type="text" value="Your car service number"><br>
+	                            <input type="text" value="Your seriel number"><br>
+	                            <input type="text" value="Yur phone number"><br>
+	                            <input type="button" value="Get your quote">
+	                        </div>
+	                    </form><br>
+	                    
+	                </div>
+	
+
+	            </div>
+	        </div>
+	    </section>
+	    <section>
+	        <div class="main-half-three">
+	            <div class="left-section-three">
+	               <h1>We follow a clear<br>process to help you<br>out</h1>
+	               <p class="attend">We attend to you services anywhere, anytime<br>at you convenient. No stress, just a call through</p>
+	               <button>Learn more</button>
+	            </div>
+	            <div class="right-section-three">
+	                <div class="right-section-whole">
+	                <div class="right-three-image-quote">
+	                    <img src="image\Group 9129.png" alt="" width="40px">
+	                    <h3>Get a Quote</h3>
+	                </div>
+	                <div>
+	                    <p>We attend to you services anywhere, anytime<br>at you convenient. No stress,<br>just a call through</p>
+	                </div>
+	                <div class="right-three-image">
+	                    <img src="image\Group 9130.png" alt="" width="40px">
+	                    <h3>Book an Appointment</h3>
+	                </div>
+	                <div>
+	                    <p>We attend to you services anywhere, anytime<br>at you convenient. No stress,<br>just a call through</p>
+	                </div>
+	                <div class="right-three-image">
+	                    <img src="image\Group 9131.png" alt="" width="40px">
+	                    <h3>Get you Service Done</h3>
+	                </div>
+	                <div>
+	                    <p>We attend to you services anywhere, anytime<br>at you convenient. No stress,<br>just a call through</p>
+	                </div>
+	            </div>
+	            
+	            </div>
+	        </div>
+	    </section>
+	    <section>
+	      <div class="main-half-four">
+	        <div id="main-half-text">
+	            <h4>What we offer</h4>
+	            <h1>We offer full service auto repair<br> & maintainance</h1>
+	        </div>
+	        <div class="four-display">
+	            <div class="engine">
+	                <img src="Group.png" alt="">
+	                <h3>Diagnostics</h3>
+	            </div>
+	            <div class="engine">
+	                <img src="Icon6.png" alt="">
+	                <h3>Engine Repair</h3>
+	            </div>
+	            <div class="engine">
+	                <img src="image\Group.png" alt="">
+	                <h3>Wheel Repair</h3>
+	            </div>
+	            <div class="engine">
+	                <img src="image\Group (1).png" alt="">
+	                <h3>Oil Filter</h3>
+	            </div>
+	        </div>
+	        <div class="four-display-2">
+	            <div class="engine">
+	                <img src="image\Icon7.png" alt="">
+	                <h3>Body Works</h3>
+	            </div>
+	            <div class="engine">
+	                <img src="image\Icon 5.png" alt="">
+	                <h3>Batteries</h3>
+	            </div>
+	            <div class="engine">
+	                <img src="image\Icon 8.png" alt="">
+	                <h3>Insurance Claim</h3>
+	            </div>
+	            <div class="engine">
+	                <img src="image\Icon 9.png" alt="">
+	                <h3>Customer Service</h3>
+	            </div>
+	        </div>
+	        <div class="learn-more">
+	            <h3>Learn more</h3>
+	            <img src="image\Arrow.png" alt="">
+	        </div>
+	      </div>
+	    </section>
+	    <section>
+	        <div class="main-half-five">
+	            <div class="main-half-five-first">
+	              <div class="first-half">
+	                <div class="getInTouch">
+	                    <h2>Get in touch with us for<br>your service related query</h2>
+	                    <button>Contact Us</button>
+	                </div>
+	              </div>
+	              <div class="second-half">
+	              </div>
+	            </div>
+	            <div class="main-half-five-second">
+	                <div class="numbers">
+	                    <h1>20+</h1>
+	                    <h1>10+</h1>
+	                    <h1>12k+</h1>
+	                    <h1>100%</h1>
+	                </div>
+	                <div class="number-text">
+	                    <p>Proffesional</p>
+	                    <p>Years Experience</p>
+	                    <p>Service Closed</p>
+	                    <p>Customer Satisfaction</p>
+	                </div>
+	
+
+	            </div>
+	            <div class="main-half-five-third">
+	             <div class="brands">
+	                <h1>Brands we Serve</h1>
+	                <img src="image\Brand Row.png" alt="" width="90%">
+	                <img src="image\Brand Row.png" alt="" width="90%">
+	             </div> 
+	            </div>
+	        </div>
+	    </section>
+	    <section class="main-half-six">
+	        <h1>Our customers say the nicest things<br>our services</h1>
+	        <div class="main-half-six-2">
+	            <div class="six-one">
+	                <div id="six-one-first">
+	                  <div class="six-one-first">
+	                    <img src="image\K84vnnzxmTQ.png" alt="" width="50px">
+	                    <div class="six-one-text">
+	                        <h3>Jonathan Vallen</h3>
+	                        <p>New York</p>
+	                    </div>
+	                  </div>
+	                    <p class="text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident optio quibusdam sed illum animi laborum cupiditate perferendis earum sit, debitis exercitationem ut ab quas iusto pa</p>
+	                </div>
+	            </div>
+	            <div class="six-two">
+	                <div id="six-one-first">
+	                    <div class="six-one-first">
+	                      <img src="image\nJHvhXS4C0U.jpg" alt="" width="50px">
+	                      <div class="six-one-text">
+	                          <h3>Jonathan Vallen</h3>
+	                          <p>New York</p>
+	                      </div>
+	                    </div>
+	                      <p class="text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident optio quibusdam sed illum animi laborum cupiditate perferendis earum sit, debitis exercitationem ut ab quas iusto pa</p>
+	                  </div>
+	            </div>
+	            <div class="six-three">
+	                <div>
+	                    <img src="image\Lines.png" alt="" width="60%">
+	                </div>
+	                <div class="six-three-left">
+	                    <img src="image\Left.png" alt="" width="30%">
+	                    <img src="image\Right.png" alt="" width="30%">
+	                </div>
+	                
+	            </div>
+	        </div>
+	    </section>
+	
+
+	</body>
+	</html>
+
